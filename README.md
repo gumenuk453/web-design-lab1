@@ -8,4 +8,4 @@
 
 **Завдання:** Ознайомитись із засобами мов HTML5 та CSS3 та навчитись застосовувати бібліотеку Twitter Bootstrap щодо швидкої побудови Web-інтерфейсу користувача. Розробити статичні Web-сторінки додатку та перевірити коректне їх відображення на екранах різного розміру.
 
-**Посилання на звіт (Google Drive):** 
+**Посилання на звіт (Google Drive):** https://docs.google.com/document/d/1vW0Wz3pppZCBP1yoYxOfDoaI0NtWGadudZHcO_3MwZA/edit?usp=sharing
