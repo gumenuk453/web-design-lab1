@@ -4,7 +4,7 @@
 - **Студент:** Гуменюк Руслан
 - **Група:** КВ-33
 - **Назва:** Розробка статичного інтерфейсу Web-додатка
-- **Тема:** Телефонний довідник ("MyContacts")
+- **Тема:** Телефонний довідник "MyContacts"
 
 ---
 
@@ -16,4 +16,4 @@
 ---
 
 ### Звітність
-**[Переглянути звіт на Google Drive](https://docs.google.com/document/d/1vW0Wz3pppZCBP1yoYxOfDoaI0NtWGadudZHcO_3MwZA/edit?usp=sharing)**
+**[Переглянути звіт на Google Drive](https://docs.google.com/document/d/1Sbe8GH_aIbXmj2y-ySwwNYUmciBxMBfPoJ4qwDV6Hqs/edit?usp=sharing)**
